@@ -1,0 +1,34 @@
+.footer{
+    background-color: #141414;
+    padding: 20px;
+    text-align: center;
+    color: #999;
+}
+.footer-icons{
+    margin-bottom: 10px;
+}
+.footer-icons img{
+    margin: 0 10px;
+    cursor: pointer;
+    width: 1.5rem;
+    height: 1.5rem;
+}
+.footer-icons img:hover{
+    filter: brightness(1.5);
+}
+ul{
+    
+    list-style: none;
+    margin: 20px 0;
+}
+ul li{
+    display: inline-block;
+    margin: 0 10px;
+    cursor: pointer;
+}
+ul li:hover{
+    text-decoration: underline;
+}
+.copyright-text{
+    margin-top: 10px;
+}
