@@ -8,7 +8,7 @@ import { getFirestore, collection, addDoc, setDoc, doc } from "firebase/firestor
 // Your web app's Firebase configuration
 // For Firebase JS SDK v7.20.0 and later, measurementId is optional
 const firebaseConfig = {
-  apiKey: "AIzaSyDtzQWsFeQdgVGq2ZTi3uewm4TunCifafU",
+  apiKey: "myfirebaseapikey",
   authDomain: "netflix-clone-2444c.firebaseapp.com",
   projectId: "netflix-clone-2444c",
   storageBucket: "netflix-clone-2444c.firebasestorage.app",
